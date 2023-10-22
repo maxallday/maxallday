@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @maxallday
-- 👀 I’m interested in application and web developementt
-- 🌱 I’m currently learning A.I,python and fullstack web dev
-- 💞
+- 👋 Hi, I’m Max
+- 👀 Frontend developer, AlX student
+- 🌱 I’m currently learning Python
+- let's connect!
 - 📫 modiga58@gmail.com
 
 <!---
