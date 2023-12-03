@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max
-- 👀 Frontend developer, AlX student
+- 👀 Frontend developer, ALX student
 - 🌱 I’m currently learning React
 - let's connect!
 - 📫 modiga58@gmail.com
