@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Max
-- 👀 Frontend developer, ALX student
-- 🌱 I’m currently learning React
-- Python,Cybersec
 - let's connect!
 - 📫 modiga58@gmail.com
 
